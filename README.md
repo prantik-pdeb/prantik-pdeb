@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @prantik-pdeb
-- 👀 I’m interested in Deep Learning, Computer Vision, AI for Medicine, Quantum Computing, QML. 
-- 🌱 I’m currently learning Deep Learning Algorithms, Deep Reinforcement Learning, Quantum Machine Learning, Neuroscience, Cognitive Science.
-- 💞️ I’m looking to collaborate on NeuroScience-AI, QML.
+- 👀 I’m interested in Computer Vision, AI ∩ Brain, ML for Medicine, QML. 
+- 🌱 I’m currently learning Deep Reinforcement Learning, Neuroscience, Cognitive Science, Quantum Machine Learning.
 - 📫 How to reach me 
      Twitter - https://twitter.com/prantik_deb
+     
      LinkedIn - https://www.linkedin.com/in/prantik-deb-759948b9/
+     
      E-mail - prantikdebpd@gmail.com
 
 <!---
