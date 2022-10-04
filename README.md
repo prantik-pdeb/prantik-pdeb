@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prantik-pdeb
 - 👀 I’m interested in Medical Computer Vision, AI ∩ Brain, ML for Medicine, QML. 
-- 🌱 I’m currently learning Deep Reinforcement Learning, Neuroscience, Cognitive Science, Quantum Machine Learning.
 - 📫 How to reach me 
      Twitter - [Prantik](https://twitter.com/prantikDebAI)
 <!---
