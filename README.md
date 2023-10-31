@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prantik Deb
-- 👀 I’m interested in Medical Imaging, Neuroscience ∩ AI, and ML for Medicine.
+- 👀 I’m interested in Medical Imaging, Neuroscience ∩ AI, ML for Medicine, and Quantum Machine Learning (QML).
 - 📫 How to reach me 
      Twitter - [Prantik](https://twitter.com/prantikDebAI)
 <!---
