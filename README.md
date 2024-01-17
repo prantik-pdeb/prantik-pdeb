@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prantik Deb
-- 👀 I’m interested in Medical Imaging, ML for Medicine, AI for Science.
+- 👀 I’m interested in Medical Imaging, ML for Medicine, and AI for Science.
 - 📫 How to reach me 
      Twitter - [Prantik](https://twitter.com/prantikDebAI)
 <!---
